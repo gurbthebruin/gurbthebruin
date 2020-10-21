@@ -5,5 +5,5 @@ I'm currently attending UCLA as a Junior Computer Science(Spring 2022) major. Th
 - 🔭 I’m currently working on the Linux Kernel Baseport team @Qualcomm
 - 🌱 I’m currently learning about the various procedures/practices that are required to upstream patches
 - 👯 I’m looking to collaborate on anything software related!
-- 📫 How to reach me: aroragurbir670@gmail.com  or (818)-422-7462
+- 📫 How to reach me: aroragurbir670@gmail.com  or (818) 422-7462
 
